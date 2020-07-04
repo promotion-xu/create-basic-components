@@ -9,6 +9,7 @@
 1. command
 
 ```js
+cd scripts/CreateComponentsCLI
 node generate.js home-page
 ```
 
